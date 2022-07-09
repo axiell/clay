@@ -148,6 +148,10 @@
         "aliases": ["nl-nl", "Dutch", "Netherlands"]
     },
     {
+        "name": "nn-no",
+        "aliases": ["nn-no", "Norwegian Nynorsk", "Norway"]
+    },
+    {
         "name": "pl-pl",
         "aliases": ["pl-pl", "Polish", "Poland"]
     },
