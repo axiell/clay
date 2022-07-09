@@ -600,6 +600,14 @@
         "aliases": ["banner", "report"]
     },
     {
+        "name": "kl-gl",
+        "aliases": [""]
+    },
+    {
+        "name": "ru-fi",
+        "aliases": [""]
+    },
+    {
         "name": "folder",
         "aliases": ["box", "container", "file"]
     },
