@@ -24,6 +24,10 @@
         "aliases": ["cs-cz", "Czech", "Czech Republic"]
     },
     {
+        "name": "cy-gb",
+        "aliases": ["cy-gb", "Welsh", "United Kingdom"]
+    },
+    {
         "name": "da-dk",
         "aliases": ["da-dk", "Danish", "Denmark"]
     },
@@ -46,6 +50,10 @@
     {
         "name": "en-gb",
         "aliases": ["en-gb", "English", "United Kingdom"]
+    },
+    {
+        "name": "en-nz",
+        "aliases": ["en-nz", "English", "New Zealand"]
     },
     {
         "name": "en-us",
@@ -82,6 +90,10 @@
     {
         "name": "fi-fi",
         "aliases": ["fi-fi", "Finnish", "Finland"]
+    },
+    {
+        "name": "fo-fo",
+        "aliases": ["fo-fo", "Faroese", "Faeroe Islands"]
     },
     {
         "name": "fr-ca",
@@ -178,6 +190,10 @@
     {
         "name": "ru-ru",
         "aliases": ["ru-ru", "Russian", "Russia"]
+    },
+    {
+        "name": "se-fi",
+        "aliases": ["se-fi", "Sami", "Inari Finland"]
     },
     {
         "name": "sk-sk",
